@@ -3,6 +3,8 @@ In this project, I utilized my SQL skills to write queries that analyzed pizza s
 
 
 🎯 **Why This Project Matters**
+
+
 Too often, data is collected but not fully leveraged. In this project, I took a pizza store’s order data and used it to answer key business questions like:
 
 
