@@ -10,8 +10,11 @@ Too often, data is collected but not fully leveraged. In this project, I took a 
 
 
 🍕 Which pizzas drive the most revenue?
+
 ⏰ What are the peak ordering hours?
+
 📈 How does order volume change by day or size?
+
 💰 Which categories underperform despite high sales?
 
 This wasn’t just querying tables. It was about:
